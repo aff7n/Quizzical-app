@@ -1,4 +1,4 @@
-## App was published on Netlify
+## Live URL 
 https://tranquil-gumption-64886b.netlify.app/
 
 # Getting Started with Create React App
