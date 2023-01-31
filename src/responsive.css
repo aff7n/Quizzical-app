@@ -29,6 +29,20 @@
     width: 200px;
     padding: 12px;
   }
+
+  .start-title {
+    font-size: 70px;
+    margin-bottom: 15px;
+  }
+
+  .start-subtitle {
+    font-size: 30px;
+    margin-bottom: 50px;
+  }
+
+  .start-button {
+    font-size: 22px;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -36,5 +50,39 @@
   .quiz-question-title {
     margin-bottom: 20px;
     align-items: stretch;
+  }
+
+  .quiz-question-title {
+    font-size: 18px;
+    line-height: 19px;
+  }
+
+  .quiz {
+    margin: 35px 75px;
+  }
+
+  .quiz-option {
+    font-size: 15px;
+  }
+
+  .btn,
+  .btn:disabled {
+    font-size: 12px;
+    width: 100px;
+    padding: 7px;
+  }
+
+  .start-title {
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+
+  .start-subtitle {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+
+  .start-button {
+    font-size: 16px;
   }
 }
