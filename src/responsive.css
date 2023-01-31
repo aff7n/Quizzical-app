@@ -12,13 +12,22 @@
   }
 
   .quiz-question-title {
-    font-size: 20px;
+    font-size: 30px;
+    line-height: 33px;
   }
 
   .quiz-question-options,
   .quiz-option {
     /* flex-direction: column; */
     margin: 5px;
+    font-size: 25px;
+  }
+
+  .btn,
+  .btn:disabled {
+    font-size: 20px;
+    width: 200px;
+    padding: 12px;
   }
 }
 
