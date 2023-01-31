@@ -1,0 +1,31 @@
+@media (min-width: 576px) {
+  * {
+    background-color: rgb(187, 187, 187);
+  }
+
+  .quiz {
+    margin: 50px 30px;
+  }
+
+  .quiz-question {
+    align-items: flex-start;
+  }
+
+  .quiz-question-title {
+    font-size: 20px;
+  }
+
+  .quiz-question-options,
+  .quiz-option {
+    /* flex-direction: column; */
+    margin: 5px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .quiz-question,
+  .quiz-question-title {
+    margin-bottom: 20px;
+    align-items: stretch;
+  }
+}
