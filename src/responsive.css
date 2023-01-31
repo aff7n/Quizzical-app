@@ -43,6 +43,11 @@
   .start-button {
     font-size: 22px;
   }
+
+  .finished-score {
+    font-size: 22px;
+    margin-right: 25px;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -84,5 +89,10 @@
 
   .start-button {
     font-size: 16px;
+  }
+
+  .finished-score {
+    font-size: 16px;
+    margin-right: 15px;
   }
 }
