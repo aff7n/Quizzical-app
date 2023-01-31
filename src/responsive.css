@@ -25,6 +25,7 @@
 
   .btn,
   .btn:disabled {
+    Margin-top: 20px
     font-size: 20px;
     width: 200px;
     padding: 12px;
